@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Github blog
+OMG: Welcome to my Github blog
 ---
 
